@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelToSql", "ExcelToSql\ExcelToSql.csproj", "{951130FD-39C0-4080-BBA0-7CDCFDFA7D2F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ExcelToSQLProgram", "ExcelToSQLProgram\ExcelToSQLProgram.vdproj", "{487CDA2D-C2B2-449E-8D65-38F63CBF76F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{951130FD-39C0-4080-BBA0-7CDCFDFA7D2F}.Debug|x86.ActiveCfg = Debug|x86
+		{951130FD-39C0-4080-BBA0-7CDCFDFA7D2F}.Debug|x86.Build.0 = Debug|x86
+		{951130FD-39C0-4080-BBA0-7CDCFDFA7D2F}.Release|x86.ActiveCfg = Release|x86
+		{951130FD-39C0-4080-BBA0-7CDCFDFA7D2F}.Release|x86.Build.0 = Release|x86
+		{487CDA2D-C2B2-449E-8D65-38F63CBF76F8}.Debug|x86.ActiveCfg = Debug
+		{487CDA2D-C2B2-449E-8D65-38F63CBF76F8}.Release|x86.ActiveCfg = Release
+		{487CDA2D-C2B2-449E-8D65-38F63CBF76F8}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
